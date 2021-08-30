@@ -2,7 +2,7 @@
 
 namespace Gateway.Core
 {
-    public class Class1
+    public class CoreTest
     {
     }
 }
