@@ -26,6 +26,7 @@ namespace Gateway.WebApi.Controllers
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new CoreTest
             {
+                Guid=Guid.NewGuid()
                 
             })
             .ToArray();
