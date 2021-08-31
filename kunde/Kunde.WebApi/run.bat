@@ -1,0 +1,1 @@
+dotnet run --URLs https://*:5002
